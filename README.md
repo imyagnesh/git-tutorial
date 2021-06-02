@@ -40,4 +40,11 @@ git reset
 // for lattest git version
 git restore --staged
 
-git clean -f
+git clean -fd
+
+// old git
+git reset -q HEAD~1 index.js
+
+// new git
+git restore source=HEAD~1 index.js
+
