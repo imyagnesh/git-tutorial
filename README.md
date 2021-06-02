@@ -40,3 +40,4 @@ git reset
 // for lattest git version
 git restore --staged
 
+git clean -f
