@@ -34,6 +34,9 @@ git log --oneline --reverse
 
 git show [> four digit]
 
+// for old git version
+git reset
 
-807aacb521d225ccb557f7094c10158a09b4e35d
+// for lattest git version
+git restore --staged
 
