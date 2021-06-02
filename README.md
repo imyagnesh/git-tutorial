@@ -46,5 +46,11 @@ git clean -fd
 git reset -q HEAD~1 index.js
 
 // new git
-git restore source=HEAD~1 index.js
+git restore --source=HEAD~1 index.js
+git restore --source=HEAD~1 --staged index.js
+
+git clone [url]
+
+git config --global credential.username "iammitanshupatel" 
+
 
