@@ -56,4 +56,6 @@ git config --global credential.username "iammitanshupatel"
 git log --oneline --stat
 git log --oneline --patch
 
+git branch -m [oldname] [newname]
+
 
