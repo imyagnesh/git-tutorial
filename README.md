@@ -1,6 +1,6 @@
 # Git Tutorial
 
-git add .
+--l git add .
 
 git commit -m  "message"
 
