@@ -53,4 +53,7 @@ git clone [url]
 
 git config --global credential.username "iammitanshupatel" 
 
+git log --oneline --stat
+git log --oneline --patch
+
 
